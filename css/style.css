@@ -106,3 +106,20 @@ main{
 .yellow{
     background-color: #dddd38;
 }
+
+/*Блок с постами*/
+
+.content{
+    margin-top: 10px;
+    background-color: #ffffff;
+    border-radius: 20px;
+}
+
+.news{
+    margin-left: 500px;
+}
+
+.img-news{
+    width: 400px;
+    height: 300px;
+}
